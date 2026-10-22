@@ -1,0 +1,15 @@
+SOCIAL MEDIA MARKETING ANALYTICS - DATASET SOURCES
+
+1. Instagram Analytics Dataset
+   Source: Kaggle
+   Dataset URL: [https://www.kaggle.com/code/kundanbedmutha/instagram-analytics/log?utm_source=chatgpt.com]
+
+2. Marketing Campaign Dataset
+   Source: Kaggle
+   Dataset URL: [https://www.kaggle.com/code/thabresh/eda-marketing-campaign-performance/input]
+
+Purpose:
+These datasets were used for educational purposes in the Social Media Marketing Analytics project developed using Microsoft Power BI.
+
+Note:
+Please refer to the original dataset pages for licensing and usage conditions.
